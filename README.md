@@ -24,11 +24,11 @@
 
 ### Pictures
 Wiring \
-![pic1](pic1.jpg)
+![pic1](pictures/pic1.jpg)
 
 Front \
-![pic2](pic2.jpg)
+![pic2](pictures/pic2.jpg)
 
 Sides \
-![pic3](pic3.jpg)
-![pic4](pic4.jpg)
+![pic3](pictures/pic3.jpg)
+![pic4](pictures/pic4.jpg)
